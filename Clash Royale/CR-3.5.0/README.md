@@ -14,7 +14,7 @@ The world's first private server emulator for Clash Royale 3.5.0 (2021) written 
 This repository is only for testing purposes or you can take the packet structures and make a whole new server, you need to implement all the packets and logic yourself.
 
 
-![screen](/Screens/game.png)
+![screen](./Screens/game.png)
 
 
 ## Credits

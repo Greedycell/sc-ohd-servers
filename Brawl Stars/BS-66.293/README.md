@@ -14,7 +14,7 @@ Private server emulator for Brawl Stars 66.293 (2026) written on Node.js
 This repository is only for testing purposes or you can take the packet structures and make a whole new server, you need to implement all the packets and logic yourself.
 
 
-![screen](/Screens/game.png)
+![screen](./Screens/game.png)
 
 
 ## Credits

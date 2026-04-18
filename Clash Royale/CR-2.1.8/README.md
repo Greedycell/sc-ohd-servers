@@ -14,7 +14,7 @@ A simple & lightweight private server for Clash Royale 2.1.8 (2017) written on N
 This repository is only for testing purposes or you can take the packet structures and make a whole new server, you need to implement all the packets and logic yourself.
 
 
-![screen](/Screens/game.png)
+![screen](./Screens/game.png)
 
 
 ## Credits

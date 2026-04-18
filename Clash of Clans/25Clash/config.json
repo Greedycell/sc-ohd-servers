@@ -1,0 +1,8 @@
+{
+    "Server": {
+        "Port": 9339,
+        "Debug": true,
+        "StreamerMode": true
+    }
+
+}

@@ -5,7 +5,7 @@ class OwnHomeDataMessage extends PiranhaMessage {
     super()
     this.id = 29777
     this.client = client
-    this.version = 0
+    this.version = 1
   }
 
   async encode () {

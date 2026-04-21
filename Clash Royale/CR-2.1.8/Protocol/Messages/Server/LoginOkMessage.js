@@ -5,7 +5,7 @@ class LoginOkMessage extends PiranhaMessage {
     super()
     this.id = 22280
     this.client = client
-    this.version = 0
+    this.version = 4
   }
 
   async encode () {
